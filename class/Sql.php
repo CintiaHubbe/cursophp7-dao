@@ -43,5 +43,4 @@ class Sql extends PDO {
 	}
 }
 
-
  ?>
